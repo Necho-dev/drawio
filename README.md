@@ -1,2 +1,2 @@
 # Picgo-Bucket
-My Own Picgo-Bucket
+My Own IMG-Bucket
